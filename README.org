@@ -24,10 +24,6 @@ http://orgmode.org for more information.
 </a>
 #+END_HTML
 
-** End-user documentation
-
-Find out more here: https://github.com/orgzly/documentation
-
 ** Building & testing
 
 If you don't use Android Studio and wish to [[https://developer.android.com/studio/build/building-cmdline.html][build]] and [[https://developer.android.com/studio/test/command-line.html][test]] the app
